@@ -1,0 +1,11 @@
+C:\Users\vahid\source\repos\ScreenMagnifier\ScreenMagnifier\bin\Debug\ScreenMagnifier.exe.config
+C:\Users\vahid\source\repos\ScreenMagnifier\ScreenMagnifier\bin\Debug\ScreenMagnifier.exe
+C:\Users\vahid\source\repos\ScreenMagnifier\ScreenMagnifier\bin\Debug\ScreenMagnifier.pdb
+C:\Users\vahid\source\repos\ScreenMagnifier\ScreenMagnifier\obj\Debug\ScreenMagnifier.csproj.AssemblyReference.cache
+C:\Users\vahid\source\repos\ScreenMagnifier\ScreenMagnifier\obj\Debug\ScreenMagnifier.csproj.SuggestedBindingRedirects.cache
+C:\Users\vahid\source\repos\ScreenMagnifier\ScreenMagnifier\obj\Debug\ScreenMagnifier.Form1.resources
+C:\Users\vahid\source\repos\ScreenMagnifier\ScreenMagnifier\obj\Debug\ScreenMagnifier.Properties.Resources.resources
+C:\Users\vahid\source\repos\ScreenMagnifier\ScreenMagnifier\obj\Debug\ScreenMagnifier.csproj.GenerateResource.cache
+C:\Users\vahid\source\repos\ScreenMagnifier\ScreenMagnifier\obj\Debug\ScreenMagnifier.csproj.CoreCompileInputs.cache
+C:\Users\vahid\source\repos\ScreenMagnifier\ScreenMagnifier\obj\Debug\ScreenMagnifier.exe
+C:\Users\vahid\source\repos\ScreenMagnifier\ScreenMagnifier\obj\Debug\ScreenMagnifier.pdb
